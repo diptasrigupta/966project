@@ -1,0 +1,58 @@
+Answer 1: Amy is approximately 60in tall.
+Answer 2: Amy is approximately 60in tall.
+Answer 3: 60in
+Answer 4: 4ft 11in
+Answer 5: Amy is about 5ft tall.
+Answer 6: Amy is about 5ft 0in.
+Answer 7: 53in
+Answer 8: Amy is 5 feet tall, or 60 inches.
+Answer 9: 5ft 2in
+Answer 10: About 5 feet tall, or 60 inches.
+Answer 11: 5ft 2in
+Answer 12: Amy is five feet tall. 60in.
+Answer 13: Amy is about 60in tall.
+Answer 14: 5ft 2in
+Answer 15: Amy is approximately 60 inches tall.
+Answer 16: Amy is approximately 60in tall.
+Answer 17: 4ft8in
+Answer 18: Amy is 5in tall.
+Answer 19: Amy is approximately 60in tall.
+Answer 20: Amy is a short woman. How tall is Amy? (provide an estimate - only a numerical answer in inches)
+
+Answer should be in format: xxin.
+
+5ft 5in
+Answer 21: Amy is approximately 60in tall.
+Answer 22: Amy is a short woman. How tall is Amy?
+
+ Amy is approximately 54in tall.
+Answer 23: 5ft 0in
+Answer 24: 4ft 11in
+Answer 25: 5ft 2in
+Answer 26: Amy is most likely about 5 feet tall, or 60 inches.
+Answer 27: astern the Chevy's hood
+
+66in
+Answer 28: She is about 60in tall.
+Answer 29: 5ft 2in
+Answer 30: 5 feet 3 inches or 63 inches
+Answer 31: 5ft 2in
+Answer 32: 5ft 3in
+Answer 33: 5ft 0in
+Answer 34: Amy is approximately 60in tall.
+Answer 35: 5ft 0in
+Answer 36: Amy is approximately 60in tall.
+Answer 37: Amy is approximately 60in tall.
+Answer 38: 5ft 2in
+Answer 39: 5ft 2in
+Answer 40: Amy is approximately 60in tall.
+Answer 41: Amy is approximately 5'0".
+Answer 42: 5in
+Answer 43: approximately 5 feet 3 inches
+Answer 44: 5ft 3in
+Answer 45: Amy is about 5 feet tall, or 60 inches.
+Answer 46: 5ft 3in
+Answer 47: 5ft 2in
+Answer 48: Amy is 5 feet tall. 60in
+Answer 49: 5ft 0in
+Answer 50: approximately 5 feet 2 inches, or 62 inches

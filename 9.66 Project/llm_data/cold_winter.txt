@@ -1,0 +1,50 @@
+Answer 1: 18F
+Answer 2: The temperature is about 33F.
+Answer 3: 42F
+Answer 4: The temperature is about 30F.
+Answer 5: 30F
+Answer 6: 15F
+Answer 7: 22F
+Answer 8: 10F
+Answer 9: The temperature is about 33F.
+Answer 10: 18F
+Answer 11: 20F
+Answer 12: It's about 33F.
+Answer 13: The temperature in Boston is about 20F
+Answer 14: It is currently about 38F.
+Answer 15: 30F
+Answer 16: 31F
+Answer 17: The tempeature in Boston is about
+Answer 18: 18F
+Answer 19: 27F
+Answer 20: 20F
+Answer 21: 20F
+Answer 22: It is around 32F in Boston.
+Answer 23: It is about 32F.
+Answer 24: 30F
+Answer 25: It is about 32 degrees F.
+Answer 26: The temperature is about 20F.
+Answer 27: It's about 30F.
+Answer 28: 32F
+Answer 29: It is around 30F.
+Answer 30: 20F
+Answer 31: 38F
+Answer 32: It is about 20F.
+Answer 33: It is approximately 32F.
+Answer 34: It is about 20 degrees Fahrenheit in Boston
+Answer 35: 30F
+Answer 36: Right now it is about 33F.
+Answer 37: 27F
+Answer 38: It is about 33F.
+Answer 39: 20F
+Answer 40: It is about 32F.
+Answer 41: 58F
+Answer 42: 35F
+Answer 43: 20F
+Answer 44: 28F
+Answer 45: 40F
+Answer 46: It is about 20F.
+Answer 47: 38F
+Answer 48: The temperature is about 33F.
+Answer 49: It is approximately 30 degrees Fahrenheit in Boston
+Answer 50: The temperature is about 18F.
